@@ -33,3 +33,10 @@ _Playlists:_
 - [2023–present by conference day](https://www.youtube.com/@MacSysAdminConference/playlists)
 
 _Notes:_ Additional content (e.g., slide decks) available on the [MacSysAdmin website](https://documentation.macsysadmin.se/index.html).
+
+## Greater Philadelphia (Philly) MacAdmins
+
+_Account 2015-present:_ [@phillymacadmins on YouTube](https://www.youtube.com/@phillymacadmins)
+
+_Notes:_ [Greater Philadelphia MacAdmins Website](https://phillymacadmins.com/)
+

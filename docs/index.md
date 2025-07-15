@@ -33,3 +33,12 @@ _Playlists:_
 - [2023–present by conference day](https://www.youtube.com/@MacSysAdminConference/playlists)
 
 _Notes:_ Additional content (e.g., slide decks) available on the [MacSysAdmin website](https://documentation.macsysadmin.se/index.html).
+
+## University of Utah - MacAdmins Meetings
+
+_Source:_ [Marriott Library – Apple Infrastructure Blog](https://apple.lib.utah.edu/)
+
+_PlayLists:_
+- [2015-present](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
+
+_Notes:_ Additional content available on the [blog](https://apple.lib.utah.edu/category/meeting/)

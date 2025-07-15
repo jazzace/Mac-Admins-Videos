@@ -1,0 +1,35 @@
+---
+name: Bug Report
+description: File a bug report to fix something that is not working.
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to fill out this bug report! 🙌
+  - type: textarea
+    attributes:
+      label: 🐞 Description
+      description: |
+        Describe clearly and concisely what is not working.
+
+        Please include steps to reproduce the issue.
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: macOS Version
+      description: What version of macOS are you running?
+      options:
+        - macOS Sequoia 15
+        - macOS Sonoma 14
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Favorite or favourite?
+      description: |
+        I confirm that the word is correctly spelt **favourite** :flag-ca: :flag-au:
+      options:
+        - label: "Yes"
+          required: true

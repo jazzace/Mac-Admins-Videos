@@ -42,3 +42,11 @@ _PlayLists:_
 - [2015-present](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
 
 _Notes:_ Additional content available on the [blog](https://apple.lib.utah.edu/category/meeting/)
+
+
+## Greater Philadelphia (Philly) MacAdmins
+
+_Account 2015-present:_ [@phillymacadmins on YouTube](https://www.youtube.com/@phillymacadmins)
+
+_Notes:_ [Greater Philadelphia MacAdmins Website](https://phillymacadmins.com/)
+

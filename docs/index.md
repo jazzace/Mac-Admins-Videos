@@ -34,6 +34,16 @@ _Playlists:_
 
 _Notes:_ Additional content (e.g., slide decks) available on the [MacSysAdmin website](https://documentation.macsysadmin.se/index.html).
 
+## University of Utah - MacAdmins Meetings
+
+_Source:_ [Marriott Library – Apple Infrastructure Blog](https://apple.lib.utah.edu/)
+
+_PlayLists:_
+- [2015-present](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
+
+_Notes:_ Additional content available on the [blog](https://apple.lib.utah.edu/category/meeting/)
+
+
 ## Greater Philadelphia (Philly) MacAdmins
 
 _Account 2015-present:_ [@phillymacadmins on YouTube](https://www.youtube.com/@phillymacadmins)

@@ -29,7 +29,7 @@ body:
     attributes:
       label: Favorite or favourite?
       description: |
-        I confirm that the word is correctly spelt **favourite** :flag-ca: :flag-au:
+        I confirm that the word is correctly spelt **favourite** 🇨🇦🇦🇺
       options:
         - label: "Yes"
           required: true
